@@ -1,0 +1,11 @@
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\bin\Debug\net6.0\Maxishop.Domain.deps.json
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\bin\Debug\net6.0\Maxishop.Domain.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\bin\Debug\net6.0\Maxishop.Domain.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.AssemblyInfoInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.AssemblyInfo.cs
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.csproj.CoreCompileInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\refint\Maxishop.Domain.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\Maxishop.Domain.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Domain\obj\Debug\net6.0\ref\Maxishop.Domain.dll

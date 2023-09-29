@@ -1,0 +1,15 @@
+C:\dotnet\Training\src\Webapp\Maxishop.Application\bin\Debug\net6.0\Maxishop.Application.deps.json
+C:\dotnet\Training\src\Webapp\Maxishop.Application\bin\Debug\net6.0\Maxishop.Application.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Application\bin\Debug\net6.0\Maxishop.Application.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.AssemblyInfoInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.AssemblyInfo.cs
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.csproj.CoreCompileInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\refint\Maxishop.Application.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\ref\Maxishop.Application.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Application\bin\Debug\net6.0\Maxishop.Domain.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Application\bin\Debug\net6.0\Maxishop.Domain.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.csproj.AssemblyReference.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Application\obj\Debug\net6.0\Maxishop.Application.csproj.CopyComplete

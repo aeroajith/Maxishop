@@ -1,0 +1,17 @@
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Infrastructure.deps.json
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Infrastructure.runtimeconfig.json
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Infrastructure.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Infrastructure.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Domain.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\bin\Debug\net6.0\Maxishop.Domain.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.csproj.AssemblyReference.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.AssemblyInfoInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.AssemblyInfo.cs
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.csproj.CopyComplete
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\refint\Maxishop.Infrastructure.dll
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.pdb
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\Maxishop.Infrastructure.genruntimeconfig.cache
+C:\dotnet\Training\src\Webapp\Maxishop.Infrastructure\obj\Debug\net6.0\ref\Maxishop.Infrastructure.dll
